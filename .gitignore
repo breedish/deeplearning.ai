@@ -2,3 +2,9 @@
 imagenet-vgg-verydeep-19.mat
 yolo.h5
 ResNet50.h5
+X_dev.npy
+X_dev.npy
+X.npy
+X.npy
+glove.6B.50d.txt
+glove.6B.50d.txt
