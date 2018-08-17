@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-@EXPLICIT
+#@EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/backports.shutil_get_terminal_size-1.0.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/blas-1.1-openblas.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/bokeh-0.11.1-py35_0.tar.bz2
@@ -51,9 +51,8 @@ https://repo.continuum.io/pkgs/free/linux-64/numba-0.23.1-np110py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/numexpr-2.5.2-np110py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/numpy-1.10.4-py35_blas_openblas_203.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/openblas-0.2.18-6.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/openssl-1.0.2h-1.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/openssl-1.0.2h-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pandas-0.18.1-np110py35_1.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/patchelf-0.9-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/patsy-0.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.2.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pickleshare-0.7.3-py35_0.tar.bz2

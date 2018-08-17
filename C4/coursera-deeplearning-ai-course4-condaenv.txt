@@ -115,7 +115,7 @@ https://repo.continuum.io/pkgs/free/linux-64/numpy-1.11.3-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/numpydoc-0.6.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/odo-0.5.0-py36_1.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/openpyxl-2.4.1-py36_0.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/openssl-1.0.2k-1.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/openssl-1.0.2k-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pamela-0.3.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/pandas-0.19.2-np111py36_1.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/partd-0.3.7-py36_0.tar.bz2
